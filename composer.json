@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/oauth2-client": "^2.2",
+        "symfony/http-foundation": "^3.3"
+    }
+}
